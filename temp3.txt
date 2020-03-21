@@ -1,2 +1,0 @@
-<h1>This is the file on local</h1>
-a new text file on remote
